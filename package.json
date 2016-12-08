@@ -1,0 +1,17 @@
+{
+  "name": "brunch-ngc",
+  "version": "1.0.0",
+  "description": "angular template compiler plugin for brunch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brunch",
+    "angular2",
+    "angular-template-compiler",
+    "ngc"
+  ],
+  "author": "Andy (Yoon Yong)",
+  "license": "MIT"
+}
